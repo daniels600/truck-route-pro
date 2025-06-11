@@ -18,7 +18,7 @@ A full-stack application built with Django and React to assist truck drivers in 
 3. **Run**: Start Django with `python manage.py runserver` and React with `npm start`.
 
 ## Demo
-Check the live hosted version at https://spotter-frontend-cyli.vercel.app/ and view the 3-5 minute Loom walkthrough [loom-link] for a code overview.
+Check the live hosted version at [https://spotter-frontend-cyli.vercel.app] and view the 3-5 minute Loom walkthrough [https://www.loom.com/share/f8f98296a84c41f2afcb3484345392a3?t=290&sid=9137eee1-c0e2-468c-8474-682886d4b164] for a code overview.
 
 ## Contributions
 Fork the repo and submit pull requests. Issues and feature requests are welcome!
